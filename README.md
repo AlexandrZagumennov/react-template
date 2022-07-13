@@ -1,1 +1,1 @@
-# react-template
+# Шаблон React с настройками webpack.config
